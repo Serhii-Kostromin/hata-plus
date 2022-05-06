@@ -199,6 +199,7 @@ a.tw:hover{
     border: 2px solid #fd8300;
     border-radius: 25px;
     transition: all .5s ease;
+    text-decoration: none;
 }   
 .cta a:hover{
     background-color: #fd8300;
@@ -238,7 +239,7 @@ p.prop-text {
     padding: 35px 0 45px;
 }
 
-.main-info  {
+.main-with-aside  {
     max-width: 713px;
     
 }
@@ -304,6 +305,7 @@ p.prop-text {
 }
 
 .home p {
+    margin: 0;
     font-size: 13px;
     line-height: 18px;
     color: #9999a6;
@@ -350,6 +352,7 @@ p.prop-text {
 
 .aside-menu >ul>li:hover >a{
     background-color: #fd8300;
+    color: white;
 }
 
 .aside-menu>ul>li>a::before{
