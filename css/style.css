@@ -50,6 +50,10 @@ a{
     align-items: center;
 }
 
+.header-shadow{
+    box-shadow:0 0 5px rgba(0,0,0,0.1);
+}
+
 .header{
     background-color: #1f1f56;
     padding: 15.5px 0;
